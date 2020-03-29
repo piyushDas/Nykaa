@@ -1,0 +1,33 @@
+.no-result-box {
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+}
+
+.no-result-title{
+  color: #333;
+  font-weight: 600;
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.no-result-subtitle{
+  color: #777;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.no-result-button{
+  margin-top: 20px;
+  background: none;
+  border: 2px solid;
+  background-color: black;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 5px;
+  font-size: 14px;
+  text-transform: uppercase;
+  /* letter-spacing: 0.1em; */
+  font-weight: 800;
+  cursor: pointer;
+}
