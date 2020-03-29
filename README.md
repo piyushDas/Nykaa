@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### yarn
+### `yarn`
 Please install all the dependecies when you clone the project first time
 
 ### `yarn start`
@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### 'node server.js'
+### `node server.js`
 In a separate tab in your terminal/cmd start the backend.
 The server.js file is located in the project root directory
 
